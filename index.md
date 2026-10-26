@@ -1,14 +1,15 @@
 # Privacy Policy — Gym
 
 **Updated:** 2026-10-26
-**Contact:** sales@ftservices.ae
+**Contact:** support@ftservices.ae
 
 ## The short version
 
 - Everything you log is saved in a database on your phone. There are no accounts,
-  no servers, no ads and no analytics. We never see your data.
+  no servers, no ads and no analytics. We never see your data unless you email us a
+  report.
 - Data leaves your phone only if you choose to use AI, and then only to the AI
-  provider you picked.
+  provider you picked, or if you send us a report email yourself.
 
 ## Stored on your phone
 
@@ -26,11 +27,18 @@
   Ollama Cloud.
 - It runs only when you tap an AI button. Then a short summary of your training goes
   straight from your phone to that provider. It never passes through us.
-- The summary can include recent sessions and sets, muscles trained, your training
-  type, goal, experience, equipment, injuries or limitations, body weight and any
-  text you type.
+- The summary can include recent sessions and sets, muscles trained, your active
+  program, weekly targets, your training type, goal, experience, training days,
+  session length, equipment, injuries or limitations, sex, age, height, body weight,
+  body-fat %, the AI's own notes about you and any text you type.
 - The provider handles it under its own privacy policy and terms, and bills usage to
   your account. Your key is sent only to that provider.
+
+## Reports
+
+- If you tap Report on an AI answer, the app opens your email app with your request
+  and the AI's answer, addressed to support@ftservices.ae. Nothing is sent unless you
+  send that email yourself.
 
 ## Health Connect (optional)
 
@@ -58,8 +66,10 @@
 - You → Delete all my data erases workouts, programs, profile, body entries, daily
   activity calories, weekly targets, AI history, AI memory, AI settings, your AI key
   and your profile photo.
+- While Health Connect stays connected, the app reads the last 14 days of active
+  calories from it again the next time you open the app. Turning off the app's access
+  in Health Connect's settings stops this.
 - Uninstalling the app deletes everything on the phone.
-- Health Connect access can be turned off in Health Connect's settings.
 
 ## Children
 
@@ -77,4 +87,4 @@ This page is updated if the app's data handling changes, with the new date at th
 
 ## Contact
 
-Questions or requests: sales@ftservices.ae
+Questions or requests: support@ftservices.ae
