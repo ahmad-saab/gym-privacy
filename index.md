@@ -16,6 +16,7 @@
 - The profile you enter: training type, goal, experience, equipment, injuries or
   limitations, height, birth year, sex, body weight and body-fat %.
 - Your profile photo, as a copy in the app's private folder.
+- Each day's active calories read from Health Connect, if you connect it.
 - AI history, the companion's memory, and your AI key in Android's encrypted storage.
 - Android backup is off for this app, so none of it is copied to your Google account.
 
@@ -34,9 +35,10 @@
 ## Health Connect (optional)
 
 - If you connect it, the app reads your calories burned (active and total calories
-  records) to show today's activity on the Calories card.
-- It only reads. It never writes to Health Connect, does not store the numbers and
-  does not send them anywhere, including to AI.
+  records) and saves each day's active calories in the app's database on your phone,
+  to show your activity on the Calories card.
+- It only reads from Health Connect and never writes to it. The saved numbers stay
+  on your phone and are never sent anywhere, including to AI.
 - Health data is never used for advertising, or for employment, insurance or credit
   decisions.
 
@@ -53,8 +55,9 @@
 
 ## Deleting your data
 
-- You → Delete all my data erases workouts, programs, profile, body entries, weekly
-  targets, AI history, AI memory, AI settings, your AI key and your profile photo.
+- You → Delete all my data erases workouts, programs, profile, body entries, daily
+  activity calories, weekly targets, AI history, AI memory, AI settings, your AI key
+  and your profile photo.
 - Uninstalling the app deletes everything on the phone.
 - Health Connect access can be turned off in Health Connect's settings.
 
