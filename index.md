@@ -1,6 +1,6 @@
 # Privacy Policy — Gym
 
-**Updated:** 2026-10-26
+**Updated:** 2026-10-27
 **Contact:** support@ftservices.ae
 
 ## The short version
@@ -44,7 +44,8 @@
 
 - If you connect it, the app reads your calories burned (active and total calories
   records) and saves each day's active calories in the app's database on your phone,
-  to show your activity on the Calories card.
+  to show your activity on the Calories card. It also shows the calories burned during
+  each workout, read when you open that workout and not saved.
 - It only reads from Health Connect and never writes to it. The saved numbers stay
   on your phone and are never sent anywhere, including to AI.
 - Health data is never used for advertising, or for employment, insurance or credit
